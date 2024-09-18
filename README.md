@@ -1,5 +1,20 @@
 # Interview_Ready_Checklist
 
+## Checklist to follow while solving the problem
+- Understand the Problem
+- Plan Your Approach
+- Break It Down
+- Write Pseudocode
+- Code the Solution
+- Test Thoroughly
+- Optimize and refine
+- Explain Clearly
+- Follow Best Practices
+- Stay Calm and Manage Time
+- Be Adaptive and Learn
+- Practice Ethical Problem-Solving
+
+
 ## RESUME
 ### Resources 
 ------- https://www.resumemaker.online/ </br>
